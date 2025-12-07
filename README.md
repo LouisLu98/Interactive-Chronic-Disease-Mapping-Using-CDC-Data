@@ -7,12 +7,12 @@ The project features an interactive map visualizing chronic disease spread acros
 Interactive-Chronic-Disease-Mapping-Using-CDC-Data/
 │
 ├── 01_data/
-│   ├── raw/                        # Original CDC datasets (unchanged)
-│   └── processed/                  # Cleaned & transformed datasets
+│   ├── raw/                         # Original CDC datasets (unchanged)
+│   └── processed/                   # Cleaned & transformed datasets
 │
 ├── 02_design/
-│   ├── project_planning_slides.pdf # Early-stage design & planning slides
-│   └── dashboard_wireframe.rp      # Initial dashboard wireframe (Axure)
+│   ├── project_planning_slides.pdf  # Early-stage design & planning slides
+│   └── dashboard_wireframe.rp       # Initial dashboard wireframe (Axure)
 │
 ├── 03_notebooks/
 │   ├── 01_data_clean_eda.ipynb
@@ -21,11 +21,11 @@ Interactive-Chronic-Disease-Mapping-Using-CDC-Data/
 │   └── 04_arima_predict.ipynb
 │
 ├── 04_dashboard/
-│   ├── dashboard_preview.png       # Dashboard preview screenshot
-│   └── dashboard_final.twb         # Tableau workbook
+│   ├── dashboard_preview_updated.png # Dashboard preview screenshot
+│   └── dashboard_final.twb           # Tableau workbook
 │
 ├── 05_reports/
-│   └── project_poster.png           # Final project poster
+│   └── project_poster.png            # Final project poster
 │
 └── README.md
 ```
@@ -48,7 +48,7 @@ The dataset provides a rich foundation for time-series forecasting and regional 
 
 Below is the preview of the interactive Tableau dashboard included in this project:
 
-![Dashboard Preview](./04_dashboard/dashboard_preview.png)
+![Dashboard Preview](./04_dashboard/dashboard_preview_updated.png)
 
 ## 🔧 Methodology
 
